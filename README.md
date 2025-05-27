@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0838-design-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
