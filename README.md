@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/rayank906/Leetcode_Tracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/rayank906/Leetcode_Tracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rayank906/Leetcode_Tracker/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
