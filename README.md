@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rayank906/Leetcode_Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Queue
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
