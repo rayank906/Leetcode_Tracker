@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rayank906/Leetcode_Tracker/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rayank906/Leetcode_Tracker/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
