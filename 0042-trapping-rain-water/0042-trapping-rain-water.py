@@ -18,13 +18,9 @@ class Solution:
             if height[i] > seenMax:
                 seenMax = height[i]
         
-        for i in range(1, len(minLR) - 1):
-            minLR[i] = min(maxL[i], maxR[i])
-        
         area = 0
-        print(minLR, maxL, maxR)
         for i in range(1, len(minLR) - 1):
-            trap = minLR[i] - height[i]
+            trap = min(maxL[i], maxR[i]) - height[i]
             area += trap if trap > 0 else 0
         return area
 
