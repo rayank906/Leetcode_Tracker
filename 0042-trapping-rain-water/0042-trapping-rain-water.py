@@ -2,7 +2,6 @@ class Solution:
     def trap(self, height: List[int]) -> int:
         maxL = [0 for i in range(len(height))]
         maxR = [0 for i in range(len(height))]
-        minLR = [0 for i in range(len(height))]
 
         # calc maxL
         seenMax = height[0]
@@ -19,7 +18,7 @@ class Solution:
                 seenMax = height[i]
         
         area = 0
-        for i in range(1, len(minLR) - 1):
+        for i in range(1, len(height) - 1):
             trap = min(maxL[i], maxR[i]) - height[i]
             area += trap if trap > 0 else 0
         return area
