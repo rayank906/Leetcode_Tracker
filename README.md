@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rayank906/Leetcode_Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rayank906/Leetcode_Tracker/tree/master/0238-product-of-array-except-self) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rayank906/Leetcode_Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rayank906/Leetcode_Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rayank906/Leetcode_Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
