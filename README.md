@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rayank906/Leetcode_Tracker/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
 ## Trie
 |  |
 | ------- |
