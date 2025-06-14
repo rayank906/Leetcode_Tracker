@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0219-contains-duplicate-ii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
