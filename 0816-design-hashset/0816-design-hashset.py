@@ -11,11 +11,8 @@ class MyHashSet:
         
 
     def remove(self, key: int) -> None:
-        newSet = []
-        for i in self.mySet:
-            if i != key:
-                newSet.append(i)
-        self.mySet = newSet
+        if key in self.mySet:
+            self.mySet.remove(key)
         
 
     def contains(self, key: int) -> bool:
