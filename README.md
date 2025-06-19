@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rayank906/Leetcode_Tracker/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rayank906/Leetcode_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
