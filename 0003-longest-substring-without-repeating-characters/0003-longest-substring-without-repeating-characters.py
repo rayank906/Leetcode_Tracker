@@ -4,14 +4,17 @@ class Solution:
         length = 0
         seen = set()
         while r < len(s) and l < len(s):
-            while s[r] in seen:
-                seen.remove(s[l])
+            length = max(len(seen), length)
+            if s[r] in seen:
+                while s[l] != s[r] and l < len(s):
+                    seen.remove(s[l])
+                    l += 1
+                seen.remove(s[l]) if l < len(s) else None
                 l += 1
             seen.add(s[r])
-            length = max(length, len(seen))
+            length = max(len(seen), length)
             r += 1
         return length
-
         
     
 """
