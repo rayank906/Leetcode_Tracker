@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rayank906/Leetcode_Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
