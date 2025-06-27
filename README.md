@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rayank906/Leetcode_Tracker/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/rayank906/Leetcode_Tracker/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rayank906/Leetcode_Tracker/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/rayank906/Leetcode_Tracker/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/rayank906/Leetcode_Tracker/tree/master/1894-merge-strings-alternately) |
