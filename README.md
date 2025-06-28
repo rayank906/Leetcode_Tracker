@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/rayank906/Leetcode_Tracker/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/rayank906/Leetcode_Tracker/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/rayank906/Leetcode_Tracker/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/rayank906/Leetcode_Tracker/tree/master/0937-online-stock-span) |
 ## Math
 |  |
 | ------- |
