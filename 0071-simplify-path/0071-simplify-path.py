@@ -10,11 +10,9 @@ class Solution:
                     i += 1 
                 if curr == '..':
                     stack.pop() if stack else None
-                elif curr == '.':
-                    continue
-                else:
+                elif curr != '.':
                     stack.append(curr)
-            curr = ""
+                curr = ""
             i += 1
         return '/' + '/'.join(stack)     
 
