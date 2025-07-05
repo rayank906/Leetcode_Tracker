@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
