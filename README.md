@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/rayank906/Leetcode_Tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 ## Divide and Conquer
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rayank906/Leetcode_Tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/rayank906/Leetcode_Tracker/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rayank906/Leetcode_Tracker/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/rayank906/Leetcode_Tracker/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rayank906/Leetcode_Tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Function
 |  |
