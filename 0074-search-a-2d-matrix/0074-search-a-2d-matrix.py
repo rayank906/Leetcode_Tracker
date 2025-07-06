@@ -8,20 +8,16 @@ class Solution:
             elif target > matrix[mid][len(matrix[mid]) - 1]:
                 l = mid + 1
             else:
-                break
-        
-        if not (l <= r):
-            return False
-
-        low, high = 0, len(matrix[mid]) - 1
-        while low <= high:
-            middle = (low + high) // 2
-            if target < matrix[mid][middle]:
-                high = middle - 1
-            elif target > matrix[mid][middle]:
-                low = middle + 1
-            else:
-                return True
+                low, high = 0, len(matrix[mid]) - 1
+                while low <= high:
+                    middle = (low + high) // 2
+                    if target < matrix[mid][middle]:
+                        high = middle - 1
+                    elif target > matrix[mid][middle]:
+                        low = middle + 1
+                    else:
+                        return True
+                return False
         return False
 
 """
