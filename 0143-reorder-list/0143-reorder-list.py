@@ -34,7 +34,8 @@ class Solution:
 
 """
     1. split the list into two by using fast and slow ptrs to find the middle
+    1b. slow.next = None to unlink the two halves
     2. reverse the link of the second half using the slow ptr
-    3. use a two ptr approach to relink properly
+    3. relink using ptrs to first and second halves, connecting one at a time
 """
         
