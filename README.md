@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rayank906/Leetcode_Tracker/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rayank906/Leetcode_Tracker/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rayank906/Leetcode_Tracker/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rayank906/Leetcode_Tracker/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rayank906/Leetcode_Tracker/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rayank906/Leetcode_Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rayank906/Leetcode_Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rayank906/Leetcode_Tracker/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rayank906/Leetcode_Tracker/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0838-design-linked-list) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rayank906/Leetcode_Tracker/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0394-decode-string) |
 ## Simulation
