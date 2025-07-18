@@ -11,15 +11,15 @@ class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         nodeMap = { None: None}
         curr = head
-        while curr:
-            newNode = Node(curr.val)
-            nodeMap[curr] = newNode
+        while curr: 
+            nodeMap[curr] = Node(curr.val)
             curr = curr.next
         
         curr = head
         while curr:
-            nodeMap[curr].next = nodeMap[curr.next]
-            nodeMap[curr].random = nodeMap[curr.random]
+            copy = nodeMap[curr]
+            copy.next = nodeMap[curr.next]
+            copy.random = nodeMap[curr.random]
             curr = curr.next
         
         return nodeMap[head]
