@@ -7,23 +7,31 @@
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         res = []
+        curr = root
+        stack = []
 
-        def traversal(root):
-            if not root:
-                return None
-
-            traversal(root.left)
-            res.append(root.val)
-            traversal(root.right)
+        while curr or stack:
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            curr = stack.pop()
+            res.append(curr.val)
+            curr = curr.right
         
-        traversal(root)
         return res
 
+
+        
+
 """
-    0. make a global res and perform inorder traversal using an inside function
-    2. Base case: if not root, return None
-    3. inorder(root.left)
-    4. res.append(root.val)
-    5. inorder(root.right)
+    Iterative solution:
+    1. make a stack to simulate the call stack
+    2. for every node, go as far left as we can, adding elems
+    to the stack
+    3. when we reach null, we want to pop from the stack and assign to curr
+    4. append that popped elem to res
+    5. go to the right
+
+    TC: O(n), SC: O(n) for the stack and res array
 """
         
