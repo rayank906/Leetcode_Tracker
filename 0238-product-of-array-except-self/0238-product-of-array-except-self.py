@@ -1,15 +1,33 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        output = [1 for i in range(len(nums))]
-        # compute prefix
-        pre = 1
+        prefix = [1] * len(nums)
+
+        product = 1
         for i in range(len(nums)):
-            output[i] = pre
-            pre *= nums[i]
-        # compute postfix
-        post = 1
-        for i in range(len(nums) - 1, -1, -1):
-            output[i] *= post
-            post *= nums[i]
+            prefix[i] = product
+            product *= nums[i]
         
-        return output
+        product = 1
+        for i in range(len(nums) - 1, -1, -1):
+            prefix[i] *= product
+            product *= nums[i]
+        
+        return prefix
+
+"""
+    1. loop forward and make a prefix array
+        a. init product to 1
+        b. keep track of curr product
+        c. multiply after updating prefix array
+    2. loop in reverse to make a suffix array
+        a. perform same ops
+    3. loop through prefix, multiply elems with suffix
+    4. return prefix array
+
+    TimeC: O(n)
+    SpaceC: O(n)
+
+    Edge cases:
+        a. neg numbers
+        b. empty array? [np]
+"""
