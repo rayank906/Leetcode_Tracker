@@ -7,19 +7,30 @@
 
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        self.res = []
+            """
+               1. append root to stack
+               2. curr = root
+               3. while stack or curr
+                    if curr is null:
+                        stack.pop
+                        self.res.append(cur.val)
+                        cur = cur.right
+                    else, append to stack and move left
+            """
+            n = 0
+            stack = []
+            curr = root
 
-        def dfs(root):
-            if not root:
-                return
-            
-            dfs(root.left)
-            self.res.append(root.val)
-            dfs(root.right)
-        
-        dfs(root)
-
-        return self.res[k - 1]
+            while curr or stack:
+                if curr:
+                    stack.append(curr)
+                    curr = curr.left
+                else:
+                    curr = stack.pop()
+                    n += 1
+                    if n == k:
+                        return curr.val
+                    curr = curr.right
 
 """
     1. make a global res array
