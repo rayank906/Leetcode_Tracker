@@ -1,41 +1,25 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        if len(nums) == 0:
-            return 0
-        nums.sort()
-        seq = {}
-        ptr, trav = 0, 0
-        seq[ptr] = 1
-        while trav < len(nums) - 1:
-            if (nums[trav] == nums[trav + 1]):
-                trav += 1
-                continue
-            if abs(nums[trav] - nums[trav + 1]) == 1:
-               seq[ptr] += 1
-            else:
-                ptr = trav + 1
-                seq[ptr] = 1
-            trav += 1
-        res = 0
-        for key, val in seq.items():
-            if (val > res):
-                res = val
-        return res
+        numSet = set(nums)
+        longest = 0
 
+        for num in numSet:
+            if (num - 1) not in numSet:
+                length = 1
+                while (num + length) in numSet:
+                    length += 1
+                longest = max(length, longest)
+        return longest
 
 """
-    1. sort
-    2. make a idx: longest seq hashmap
-    3. loop through sorted list. where a sequence breaks is
-    where we start another
-    [
-        a. start at idx 0, check if next num is 1 greater. if it is, append dict
-        b. if it isnt, make curr idx a new elem in dict init to 0, repeat process
-        c. repeat until end of nums reached
-    ]
-    4. return longest value element of hashmap
+    1. make a hashset of elements
+    2. for every element in the hash set, only start a sequence if its
+    -1 element doesn't exist
+    3. make a count variable
+    4. while, num + 1 in set, count += 1
+    5. lcs = max(lcs, count)
+    6. return lcs
+
+    TimeC: O(n), loop through array once
+    SpaceC: O(n) for the extra hashset
 """
-
-
-
-        
