@@ -12,22 +12,25 @@ class Solution:
         for i in range(len(inorder)):
             indexes[inorder[i]] = i
 
-        def dfs(preorder, inorder, indexes):
-            if not preorder or not inorder:
+        self.pre_idx = 0
+
+        def dfs(l, r):
+            if l > r:
                 return None
             
-            root = TreeNode(preorder[0])
+            root = TreeNode(preorder[self.pre_idx])
+            self.pre_idx += 1
 
             if len(preorder) == 1:
                 return root
             
             idx = indexes[root.val]
             
-            root.left = self.buildTree(preorder[1:idx + 1], inorder[:idx])
-            root.right = self.buildTree(preorder[idx + 1:], inorder[idx + 1:])
+            root.left = dfs(l, idx - 1)
+            root.right = dfs(idx + 1, r)
             return root
         
-        return dfs(preorder, inorder, indexes)
+        return dfs(0, len(inorder) - 1)
         
 
 
