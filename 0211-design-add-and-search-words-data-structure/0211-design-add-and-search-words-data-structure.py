@@ -31,7 +31,15 @@ class WordDictionary:
     def search(self, word: str) -> bool:
         """
             1. using a ptr to root,
-            2. perform a dfs
+            1b. make a dfs helper, with params j and root where j is the beginning of new word
+            2. for every char in range j - word,
+            3. if its not a dot, perform normal trie search
+            4. if its a dot, perform dfs to search if the words after the dot match
+            any child of the curr children values [dfs good here bc iterative requires too many checks]
+            5. return False if a mismatch occurs (aka dfs returns False)
+            6. return True if dfs is successful
+            7. return curr.word outside of the function
+            8. call dfs on 0 and root
         """
         curr = self.root
 
