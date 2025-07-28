@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rayank906/Leetcode_Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rayank906/Leetcode_Tracker/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rayank906/Leetcode_Tracker/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rayank906/Leetcode_Tracker/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/rayank906/Leetcode_Tracker/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rayank906/Leetcode_Tracker/tree/master/0424-longest-repeating-character-replacement) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rayank906/Leetcode_Tracker/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
