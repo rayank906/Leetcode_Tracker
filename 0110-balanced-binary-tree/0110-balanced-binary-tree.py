@@ -13,28 +13,28 @@ class Solution:
         def dfs(root):
             if not root:
                 return [True, 0]
-            
+
             left = dfs(root.left)
             right = dfs(root.right)
 
-            balanced = abs(left[1] - right[1]) <= 1 and left[0] and right[0]
-
+            balanced = left[0] and right[0] and abs(left[1] - right[1]) <= 1 
+            
             return [balanced, 1 + max(left[1], right[1])]
-
-        balanced = dfs(root)
-        return balanced[0]
+        
+        return dfs(root)[0]
 
 """
-    1. base case, empty, return True
-    2. helper function for height traversal returns a pair of bool and int
-        a. takes in a root
-        ai. if null, return [True, 0]
-        b. traverses left
-        c. traverses right
-        d. check if left and right differ by 1 and if they are both balanced
-        e. return the balance status and the maximum of the height of left and right
-    3. call helper function on root.left and root.right
-    4. run dfs helper
-    5. return the boolean in the pair that is returned
+    1. base case: if not root, return None
+    Goal: ensure every node is a balanced tree
+    1. make a dfs function that traverses nodes from the ground up
+    2. for dfs helper, go left and right until base cases. 
+    3. return a pair (True, 0) for base case
+    bool represents balanced or not, number represents height
+    4. recursive step: balanced = balance state of left, right and whether abs(difference) <= 1
+    5. return [balanced, 1 + max(l, r) {represents the height calculation}]
+    6. call dfs helper and return its boolean value
+
+    TimeC: O(n)
+    SpaceC: O(h) where h is the height of the longest subtree
 """
         
