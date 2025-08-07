@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/rayank906/Leetcode_Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rayank906/Leetcode_Tracker/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rayank906/Leetcode_Tracker/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rayank906/Leetcode_Tracker/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rayank906/Leetcode_Tracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rayank906/Leetcode_Tracker/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rayank906/Leetcode_Tracker/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rayank906/Leetcode_Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rayank906/Leetcode_Tracker/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/rayank906/Leetcode_Tracker/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0838-design-linked-list) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rayank906/Leetcode_Tracker/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
