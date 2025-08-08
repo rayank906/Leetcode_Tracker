@@ -3,18 +3,17 @@ class Solution:
         if not grid:
             return 0
         rows, columns = len(grid), len(grid[0])
-        neighbours = [[0, -1], [0, 1], [-1, 0], [1, 0]]
         island_count = 0
 
         def dfs(r, c):
-            if r not in range(rows) or c not in range(columns) or grid[r][c] == '0':
+            if r < 0 or c < 0 or r > rows - 1 or c > columns - 1 or grid[r][c] == '0':
                 return
             grid[r][c] = '0'
 
-            for dr, dc in neighbours:
-                row = r + dr
-                col = c + dc
-                dfs(row, col)
+            dfs(r + 1, c)
+            dfs(r - 1, c)
+            dfs(r, c + 1)
+            dfs(r, c - 1)
         
         for r in range(rows):
             for c in range(columns):
