@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
+| [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/rayank906/Leetcode_Tracker/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rayank906/Leetcode_Tracker/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
+| [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 ## Union Find
 |  |
 | ------- |
