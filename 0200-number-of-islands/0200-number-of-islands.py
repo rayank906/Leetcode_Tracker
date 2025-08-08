@@ -3,15 +3,14 @@ class Solution:
         if not grid:
             return 0
         rows, columns = len(grid), len(grid[0])
-        visit = set()
+        neighbours = [[0, -1], [0, 1], [-1, 0], [1, 0]]
         island_count = 0
 
         def dfs(r, c):
-            if r not in range(rows) or c not in range(columns) or (r, c) in visit or grid[r][c] == '0':
+            if r not in range(rows) or c not in range(columns) or grid[r][c] == '0':
                 return
-            visit.add((r, c))
+            grid[r][c] = '0'
 
-            neighbours = [[0, -1], [0, 1], [-1, 0], [1, 0]]
             for dr, dc in neighbours:
                 row = r + dr
                 col = c + dc
@@ -19,7 +18,7 @@ class Solution:
         
         for r in range(rows):
             for c in range(columns):
-                if grid[r][c] == '1' and (r, c) not in visit:
+                if grid[r][c] == '1':
                     dfs(r, c)
                     island_count += 1
         
