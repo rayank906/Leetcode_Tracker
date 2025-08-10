@@ -1,36 +1,33 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
-        res = []
-        collide = False
+        stack = []
         for ast in asteroids:
-            if ast > 0:
-                res.append(ast)
+            if not stack:
+                stack.append(ast)
             else:
-                while res and res[-1] > 0 and ast < 0:
-                    if abs(ast) > res[-1]:
-                        res.pop()
-                    elif abs(ast) < res[-1]:
-                        break
-                    else:
-                        res.pop()
-                        collide = True
-                        break
-                if (not res or res[-1] < 0) and not collide:
-                    res.append(ast)
-                collide =  False
-        return res
+                if stack[-1] > 0 and ast > 0:
+                    stack.append(ast)
+                elif stack[-1] < 0:
+                    stack.append(ast)
+                else:
+                    while stack and stack[-1] > 0 and abs(ast) > stack[-1]:
+                        stack.pop()
+                    if not stack or stack[-1] < 0:
+                        stack.append(ast)
+                    elif stack[-1] == abs(ast):
+                        stack.pop()
+        return stack
+
 
 """
-    1. use a stack for result
-    2. while res and top > 0 and ast < 0
-        if abs(ast) > top:
-            pop top
-        elif abs(ast) < top:
-            break
-        else:
-            pop top
-            break
-    3. if not stack or res[-1] < 0:
-        push ast
+    1. use a stack for the asteroids
+    2. loop through asteroids
+    3. if stack empty, if curr asteroid is negative, ignore else append to stack
+    4. if stack[-1] is positive, if curr ast positive, append to the stack
+            if negative, while mag(curr ast) > stack[-1] and stack
+            pop the element
+            if not stack, append curr ast
+    5. if stack[-1] negative, append the element
+    6. return stack
 """
         
