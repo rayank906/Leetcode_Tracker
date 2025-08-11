@@ -4,35 +4,34 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        self.stack = []
+        res = []
 
         def dfs(root):
             if not root:
-                return True
+                return
             
-            left = dfs(root.left)
-            if self.stack and self.stack[-1] >= root.val:
-                return False
-            else:
-                self.stack.append(root.val)
-            right = dfs(root.right)
-
-            return left and right
+            dfs(root.left)
+            res.append(root.val)
+            dfs(root.right)
         
-        return dfs(root)
+        dfs(root)
+
+        for i in range(1, len(res)):
+            if res[i - 1] >= res[i]:
+                return False
+        return True
 
 """
-    1. perform an inorder traversal on root
-        left = traverse left
-        if stack and stack[-1] >= root.val:
-            return False
-        right = traverse right
-        return left and right
-
-    TimeC: O(n), traversal of every node
-    SpaceC: O(n), a stack for extra memory
+    1. make a global res array
+    2. define a dfs helper
+        a. if not root, return
+        b. dfs on left subtree
+        c. adding node value to the res array
+        d. dfs on right subtree
+    3. call dfs helper
+    4. loop through the array and ensure sorted order by 
+    ensuring every value before a value is smaller
 """
         
