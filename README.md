@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rayank906/Leetcode_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rayank906/Leetcode_Tracker/tree/master/0739-daily-temperatures) |
@@ -243,12 +244,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rayank906/Leetcode_Tracker/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/rayank906/Leetcode_Tracker/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rayank906/Leetcode_Tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/rayank906/Leetcode_Tracker/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
