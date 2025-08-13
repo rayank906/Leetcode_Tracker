@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rayank906/Leetcode_Tracker/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rayank906/Leetcode_Tracker/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rayank906/Leetcode_Tracker/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rayank906/Leetcode_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
@@ -465,4 +467,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rayank906/Leetcode_Tracker/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
