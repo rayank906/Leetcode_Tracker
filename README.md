@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rayank906/Leetcode_Tracker/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rayank906/Leetcode_Tracker/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rayank906/Leetcode_Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0090-subsets-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rayank906/Leetcode_Tracker/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rayank906/Leetcode_Tracker/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rayank906/Leetcode_Tracker/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rayank906/Leetcode_Tracker/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rayank906/Leetcode_Tracker/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rayank906/Leetcode_Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0100-same-tree) |
@@ -451,5 +455,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rayank906/Leetcode_Tracker/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/rayank906/Leetcode_Tracker/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rayank906/Leetcode_Tracker/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
