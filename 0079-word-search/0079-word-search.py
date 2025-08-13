@@ -48,8 +48,9 @@ class Solution:
     5. keep looping
     6. return False
 
-    TimeC: O(n * m * 4^w) because we go through the whole grid (n * m)
-            and we have 4 calls to dfs for every dfs
+    TimeC: O(n * m * 3^w-1) because we go through the whole grid (n * m)
+            and we have at most 3 dfs calls every time we recurse
+            (w - 1) is also bc the call when i == w is O(1)
     SpaceC: O(n)
 """
         
