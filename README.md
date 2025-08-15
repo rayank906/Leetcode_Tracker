@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rayank906/Leetcode_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rayank906/Leetcode_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rayank906/Leetcode_Tracker/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rayank906/Leetcode_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rayank906/Leetcode_Tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rayank906/Leetcode_Tracker/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rayank906/Leetcode_Tracker/tree/master/0871-keys-and-rooms) |
