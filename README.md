@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rayank906/Leetcode_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/rayank906/Leetcode_Tracker/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rayank906/Leetcode_Tracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rayank906/Leetcode_Tracker/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/rayank906/Leetcode_Tracker/tree/master/0338-counting-bits) |
 ## String Matching
 |  |
 | ------- |
