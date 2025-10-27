@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/rayank906/Leetcode_Tracker/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rayank906/Leetcode_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/rayank906/Leetcode_Tracker/tree/master/0338-counting-bits) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/rayank906/Leetcode_Tracker/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## String Matching
 |  |
 | ------- |
