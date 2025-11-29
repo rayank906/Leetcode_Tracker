@@ -5,45 +5,42 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def minNode(self, root):
-        curr = root
-        while curr and curr.left:
-            curr = curr.left
-        return curr
-    
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
+        """
+            1. if not root, return None
+            2. search for key using binary search
+            3. once found, remove the node
+                a. Node has no children
+                assign to None
+                b. Node has one child
+                Replace the node with its child
+                c. Node has two children
+                Search for minimum in lhs (min helper)
+                Replace with that, delete min
+            4. return root
+        """
+        def successorSearch(root):
+            while root.right:
+                root = root.right
+            return root
+        
         if not root:
             return None
         
-        if key > root.val:
-            root.right = self.deleteNode(root.right, key)
-        elif key < root.val:
+        if key < root.val:
             root.left = self.deleteNode(root.left, key)
-        else:
-            if not root.left:
-                return root.right
-            elif not root.right:
-                return root.left
+        elif key > root.val:
+            root.right = self.deleteNode(root.right, key)
+        else:     
+            if root.left and root.right:
+                node = successorSearch(root.left)
+                root.val = node.val
+                root.left = self.deleteNode(root.left, node.val)
+            elif root.right:
+                root = root.right
             else:
-                smallest = self.minNode(root.right)
-                root.val = smallest.val
-                root.right = self.deleteNode(root.right, smallest.val)
+                root = root.left
         return root
-
-"""
-    Helper [MinNode]:
-        while root.left:
-            minNode = root.left
-        return minNode
-    
-    Base case:
-        if null root, return None
-    1st case, 0 or 1 child:
-        return the valid child
-    2nd case, 2 children:
-        find minNode in right subtree
-        replace node value with minNode value
-        delete minNode from tree
-    return root
-"""
+        
+        
         
