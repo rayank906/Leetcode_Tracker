@@ -1,27 +1,27 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(s) != len(t): return False
-        hash_s = {}
-        for i in s:
-            if i in hash_s:
-                hash_s[i] += 1
-            else:
-                hash_s[i] = 1
+        """
+            0. check s and t length
+            1. make a freq map for s and t
+            2. return whether or not freq maps are equal
+        """
+        if len(s) != len(t):
+            return False
         
-        for j in t:
-            if j in hash_s:
-                hash_s[j] -= 1
-        
-        for key in hash_s:
-            if hash_s[key] != 0:
-                return False
-        return True
-        
+        freqS = {}
+        freqT = {}
 
-'''
-    1. create hashmap for s with counts of the occurences of each letter
-    2. loop through t, decrease occurence of a letter as encountered
-    3. loop through hashmap again and check if everyone is zero before returning true
-    SC: O(n), made hash map
-    TC: O(2n + m) -> O(n + m)
-'''       
+        for c in s:
+            if c not in freqS:
+                freqS[c] = 1
+            else:
+                freqS[c] += 1
+        
+        for c in t:
+            if c not in freqT:
+                freqT[c] = 1
+            else:
+                freqT[c] += 1
+        
+        return freqS == freqT
+        
