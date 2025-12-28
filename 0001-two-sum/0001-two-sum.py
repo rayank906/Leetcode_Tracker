@@ -1,14 +1,14 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        """
+            1. loop through arr
+            2. add to hashmap of idx as we visit
+            3. as we loop, check if target - curr exist in hashmap
+            4. once found, return map[diff], curr
+        """
+        valToIdx = {}
         for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if (nums[i] + nums[j] == target):
-                    return [i, j]
-        return 0
-
-
-"""
-    1. for every element, loop through all the other elements, sum and check if it equals target
-    2. return both indexes when it does
-"""
-        
+            diff = target - nums[i]
+            if diff in valToIdx:
+                return [valToIdx[diff], i]
+            valToIdx[nums[i]] = i
