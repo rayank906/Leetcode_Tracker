@@ -1,33 +1,37 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        prefix = [1] * len(nums)
-
-        product = 1
+        """
+            1. calculate prefix product and put in prefix array
+                a. keep track of product, init to 1
+                b. for num in nums
+                c. prefix.append(product)
+                d. product *= num
+            2. calculate suffix product and put in suffix array
+                a. keep track of product, init to 1
+                b. for num in nums, loop in reverse
+                c. suffix[i] = product
+                d. product *= num
+            3. for num in nums
+            4. add prefix[i] + suffix[i]
+        """
+        prefix = [0 for i in range(len(nums))]
+        suffix = [0 for i in range(len(nums))]
+        
+        # calc prefix
+        prod = 1
         for i in range(len(nums)):
-            prefix[i] = product
-            product *= nums[i]
-        
-        product = 1
+            prefix[i] = prod
+            prod *= nums[i]
+        # calc suffix
+        prod = 1
         for i in range(len(nums) - 1, -1, -1):
-            prefix[i] *= product
-            product *= nums[i]
+            suffix[i] = prod
+            prod *= nums[i]
+        print(prefix, suffix)
+
+        # calc result
+        res = []
+        for i in range(len(nums)):
+            res.append(prefix[i] * suffix[i])
+        return res
         
-        return prefix
-
-"""
-    1. loop forward and make a prefix array
-        a. init product to 1
-        b. keep track of curr product
-        c. multiply after updating prefix array
-    2. loop in reverse to make a suffix array
-        a. perform same ops
-    3. loop through prefix, multiply elems with suffix
-    4. return prefix array
-
-    TimeC: O(n)
-    SpaceC: O(n)
-
-    Edge cases:
-        a. neg numbers
-        b. empty array? [np]
-"""
