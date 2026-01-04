@@ -12,9 +12,9 @@ class Solution:
         while l < r:
             amt = (r - l) * min(heights[l], heights[r])
             area = max(amt, area)
-            if heights[l] < heights[r]:
-                l += 1
-            else:
+            if heights[l] > heights[r]:
                 r -= 1
+            else:
+                l += 1
         return area
         
