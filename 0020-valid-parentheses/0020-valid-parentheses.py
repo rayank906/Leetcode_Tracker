@@ -4,7 +4,7 @@ class Solution:
             1. add open brackets to the stack
             2. when encounter closed brackets, pop from stack
             3. if mismatch when popped, return false
-            4. return true
+            4. return true if stack empty else return false
         """
         stack = []
         for c in s:
