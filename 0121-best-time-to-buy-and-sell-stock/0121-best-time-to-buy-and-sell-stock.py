@@ -1,16 +1,20 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        l, r = 0, 1
-        profit = 0
-        while r < len(prices):
-            if prices[l] < prices[r]:
-                profit = max(prices[r] - prices[l], profit)
-            else:
+        """
+            max profit: buy lowest and sell future highest
+            1. l, r init to first position
+            1b. init profit to 0
+            2. move r
+                a. if r <= l, l = r, r += 1
+                b. else, profit = max(profit, curProfit)
+            3. return profit
+        """
+        l, profit = 0, 0
+        for r in range(1, len(prices)):
+            if prices[r] <= prices[l]:
                 l = r
-            r += 1
+            else:
+                curProfit = prices[r] - prices[l]
+                profit = max(profit, curProfit)
         return profit
-"""
-    1. set l, r to first and second elem
-    2. for every elem, if r < l, set l to r
-    3. else calculate profit and update profit if necessary
-"""
+        
