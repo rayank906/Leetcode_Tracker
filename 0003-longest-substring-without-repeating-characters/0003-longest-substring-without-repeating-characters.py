@@ -1,33 +1,32 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        """
+            1. init l,r, longest, cur to 0
+            2. init seen set
+            3. while r < len(s)
+                4. if r in seen
+                    update longest to max longest curr
+                5. while r in seen: 
+                    seen.remove(l)
+                    incr l
+                    decr curr
+                6. add r to seen
+                7. incr r
+                8. incr curr
+            9. return longest
+        """
         l, r = 0, 0
-        length = 0
+        longest, curr = 0, 0
         seen = set()
-        while r < len(s) and l < len(s):
-            length = max(len(seen), length)
+        while r < len(s):
             if s[r] in seen:
-                while s[l] != s[r] and l < len(s):
+                longest = max(curr, longest)
+                while s[r] in seen:
                     seen.remove(s[l])
                     l += 1
-                seen.remove(s[l]) if l < len(s) else None
-                l += 1
+                    curr -= 1
             seen.add(s[r])
-            length = max(len(seen), length)
             r += 1
-        return length
+            curr += 1
+        return max(longest, curr)
         
-    
-"""
-    1. init l, r = 0, 0, init seen set
-    2. move r forward
-    3. if char in seen,
-        empty seen set
-        update length to len(seen)
-        move l forward until != curr char
-        assign r to l
-    4. return length
-
-    Edge cases:
-        1. empty string: wouldnt loop and would return 0
-        2. single element string: loop once, update length, ret 1
-"""
