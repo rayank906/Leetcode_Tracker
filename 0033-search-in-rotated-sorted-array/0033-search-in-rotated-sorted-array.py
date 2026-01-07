@@ -1,37 +1,42 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
+        """
+            1. init l, r to 0, len(nums) - 1
+            2. calc mid = l + r // 2
+            3. while l <= r, 
+            3b. if l < r
+                if target > mid, l = mid + 1
+                elif  t < mid, r = mid - 1
+                else, return mid
+            4. l > r, 
+                a. mid >= l, if target < mid and > l, r = mid
+                            else, l = mid
+                b. else, if target > mid and < r, l = mid
+                            else, r = mid
+            return -1
+        """
         l, r = 0, len(nums) - 1
         while l <= r:
-            mid = l + ((r - l) // 2)
-            if target == nums[mid]:
-                return mid
-
-            if nums[l] <= nums[mid]:
-                if target < nums[mid] and target >= nums[l]:
+            mid = (l + r) // 2
+            if nums[l] < nums[r]:
+                if target > nums[mid]:
+                    l = mid + 1
+                elif target < nums[mid]:
                     r = mid - 1
                 else:
-                    l = mid + 1
-            elif nums[mid] <= nums[r]:
-                if target > nums[mid] and target <= nums[r]:
-                    l = mid + 1
+                    return mid
+            else:
+                if nums[mid] == target:
+                    return mid
+                if nums[mid] >= nums[l]:
+                    if target <= nums[mid] and target >= nums[l]:
+                        r = mid
+                    else:
+                        l = mid + 1
                 else:
-                    r = mid - 1
+                    if target >= nums[mid] and target <= nums[r]:
+                        l = mid
+                    else:
+                        r = mid - 1
         return -1
-
-"""
-   1. l, r to 0, len(nums) - 1
-   2. calculate the mid
-   3. if l <= mid, left sorted portion:
-   4. if target < nums[mid] and target >= nums[l]:
-        r = mid - 1
-        else, l = mid + 1
-   5. if mid <= r, right sorted portion:
-   6. if target <= r and > mid:
-        l = mid + 1
-        else. r = mid - 1
-   7. return -1
-
-   TC: O(log n) divide search space in half
-   SC: O(1) for a couple ptrs
-"""
         
