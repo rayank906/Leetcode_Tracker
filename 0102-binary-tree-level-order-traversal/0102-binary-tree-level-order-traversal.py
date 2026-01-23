@@ -4,40 +4,33 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
+from collections import deque
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        """
+            1. init res
+            2. init queue with the root node
+            3. while curr len queue > 0:
+                3b. init temp
+                4. for all elems in q
+                    5. pop from q, add to temp
+                    6. if left, right children exist, add them to the q
+                7. add temp to res
+            8. return res
+        """
         if not root:
             return []
-        
         res = []
-        queue = deque()
-
-        queue.append(root)
-
-        while queue:
-            add = []
-            for i in range(len(queue)):
-                cur = queue.popleft()
-                add.append(cur.val)
-                if cur.left:
-                    queue.append(cur.left)
-                if cur.right:
-                    queue.append(cur.right)
-            res.append(add)
+        q = deque()
+        q.append(root)
+        while len(q) > 0:
+            temp = []
+            for i in range(len(q)):
+                curr = q.popleft()
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
+                temp.append(curr.val)
+            res.append(temp)
         return res
-
-"""
-    1. Base case, if not root, return []
-    2. Make a queue
-    3. Append root to queue
-    4. while queue, 
-        pop all curr elements from queue using a for (left)
-        append all popped curr elements to a sublist in res
-    5. push children of popped element to the right
-    6. repeat until queue is empty
-
-    TimeC: O(n), traverse through the whole tree
-    SpaceC: O(n), for additional queue and res array
-"""
-        
