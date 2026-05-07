@@ -1,34 +1,30 @@
 class Solution:
-    def helper(self, i, nums, curSet, res):
-        if i == len(nums):
-            res.append(curSet[:])
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        """
+            1. make a global subset arr
+            2. make a helper that takes idx, arr, curr, global subset
+                a. add to currset
+                b. recurse in helper with element
+                c. pop from curset
+                d. recurse without element
+                e. stop if idx >= len(nums)
+                f. add curset copy to global subset
+            3. init curset and subsets
+            4. call helper
+            5. return subsets
+        """
+        def helper(i, nums, curr, subsets):
+            if i >= len(nums):
+                subsets.append(curr.copy())
+                return
+            
+            curr.append(nums[i])
+            helper(i + 1, nums, curr, subsets)
+            
+            curr.pop()
+            helper(i + 1, nums, curr, subsets)
             return
         
-        # Explore subsets with element i
-        curSet.append(nums[i])
-        self.helper(i + 1, nums, curSet, res)
-        curSet.pop()
-
-        # Explore subsets without i
-        self.helper(i + 1, nums, curSet, res)
-
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        res, curSet = [], []
-        self.helper(0, nums, curSet, res)
-        return res
-
-"""
-    1. make a helper function to traverse all possible subsets
-    2. helper function takes in starting idx, nums, curr, res
-        3. if i == len(nums), append curr to the res
-        4. append element at i to currset
-            a. Explore subsets with element i
-            Recursive call to helper function with i + 1
-        5. Explore subsets without element i
-            pop from curset, then make recursive call
-    6. return res array
-
-    TimeC: O(n * 2^n)
-    SpaceC: O(n) for the recursive call stack
-"""
-        
+        subsets, curr = [], []
+        helper(0, nums, curr, subsets)
+        return subsets
