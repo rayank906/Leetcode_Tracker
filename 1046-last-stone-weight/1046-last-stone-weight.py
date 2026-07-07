@@ -7,6 +7,8 @@ class Solution:
             3. if x < y,
             4. push y-x into the heap
             5. return stones[0] if stones else 0
+
+            TimeC: O(nlogn)
         """
         heapq.heapify_max(stones)
         while len(stones) > 1:
@@ -14,3 +16,7 @@ class Solution:
             if x < y:
                 heapq.heappush_max(stones, y-x)
         return stones[0] if stones else 0
+        
+
+
+        
