@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/rayank906/Leetcode_Tracker/tree/master/1046-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rayank906/Leetcode_Tracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rayank906/Leetcode_Tracker/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/rayank906/Leetcode_Tracker/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
