@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rayank906/Leetcode_Tracker/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/rayank906/Leetcode_Tracker/tree/master/1046-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rayank906/Leetcode_Tracker/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -120,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rayank906/Leetcode_Tracker/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rayank906/Leetcode_Tracker/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rayank906/Leetcode_Tracker/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rayank906/Leetcode_Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -515,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
