@@ -7,6 +7,9 @@ class Solution:
             4. heapify points
             5. pop k times to get k closest elements and append to res
             6. return res
+
+            TC: O(klogn) on avg, worst case nlogn
+            SC: O(n)
         """
         res = []
 
