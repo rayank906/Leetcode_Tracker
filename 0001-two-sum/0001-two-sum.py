@@ -1,14 +1,21 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         """
-            1. loop through arr
-            2. add to hashmap of idx as we visit
-            3. as we loop, check if target - curr exist in hashmap
-            4. once found, return map[diff], curr
+            1. init seen hashmap
+            2. for every element
+                3. subtract it from target to get remainder for sum
+                4. check if remainder exists in seen
+                5. if it has, return curr idx and hashmap idx
+                6. if its not, add that element to seen 
+            
+            TC: O(n)
+            SC: O(n)
         """
-        valToIdx = {}
+        seen = {}
         for i in range(len(nums)):
-            diff = target - nums[i]
-            if diff in valToIdx:
-                return [valToIdx[diff], i]
-            valToIdx[nums[i]] = i
+            rem = target - nums[i]
+            if rem in seen:
+                return [i, seen[rem]]
+            seen[nums[i]] = i
+        return [-1, -1]
+        
