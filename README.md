@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rayank906/Leetcode_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/rayank906/Leetcode_Tracker/tree/master/0724-find-pivot-index) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rayank906/Leetcode_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rayank906/Leetcode_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/rayank906/Leetcode_Tracker/tree/master/1023-time-based-key-value-store) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rayank906/Leetcode_Tracker/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rayank906/Leetcode_Tracker/tree/master/1046-last-stone-weight) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rayank906/Leetcode_Tracker/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
 ## Trie
