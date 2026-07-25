@@ -1,42 +1,29 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
-        rows, columns = len(grid), len(grid[0])
-        island_count = 0
-
-        def dfs(r, c):
-            if r < 0 or c < 0 or r > rows - 1 or c > columns - 1 or grid[r][c] == '0':
+        """
+           1. loop through the grid with r, c
+           2. change all seen 1s to 0s
+           3. increment numIsl only if everything surrounding is seen / water 
+        """
+        count = 0
+        row = len(grid)
+        col = len(grid[0])
+        
+        def dfs(r,c):
+            if r < 0 or c < 0 or r >= row or c >= col or grid[r][c] == "0":
                 return
-            grid[r][c] = '0'
-
+            grid[r][c] = "0" # mark seen                   
             dfs(r + 1, c)
-            dfs(r - 1, c)
-            dfs(r, c + 1)
+            dfs(r - 1, c) 
+            dfs(r, c + 1) 
             dfs(r, c - 1)
         
-        for r in range(rows):
-            for c in range(columns):
-                if grid[r][c] == '1':
+        for r in range(len(grid)):
+            for c in range(len(grid[r])):
+                if grid[r][c] == "1":
                     dfs(r, c)
-                    island_count += 1
+                    count += 1
         
-        return island_count
-
-"""
-    1. if not grid, return 0
-    2. grab row and columns
-    3. make dfs function
-        Base cases:
-            a. If r or c OOB or grid[r][c] == 0, return
-            c. If r, c has been visited, return
-        i. add r, c to visited
-        ii. traverse r + 1, c + 1, r - 1, c - 1
-    4. for every vertex in grid, if equal to 1 and not in visited, perform dfs
-    and increment island count
-    5. return island count
-
-    TimeC: O(m * n)
-    SpaceC: O(m * n) where m is the number of rows and n is the number of columns
-"""
-        
+        return count
+                          
+              
