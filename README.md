@@ -549,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rayank906/Leetcode_Tracker/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
