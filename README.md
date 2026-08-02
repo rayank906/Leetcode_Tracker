@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rayank906/Leetcode_Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rayank906/Leetcode_Tracker/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rayank906/Leetcode_Tracker/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rayank906/Leetcode_Tracker/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rayank906/Leetcode_Tracker/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rayank906/Leetcode_Tracker/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/rayank906/Leetcode_Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/rayank906/Leetcode_Tracker/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/rayank906/Leetcode_Tracker/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/rayank906/Leetcode_Tracker/tree/master/1582-design-browser-history) |
