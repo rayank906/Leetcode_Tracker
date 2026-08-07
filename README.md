@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/rayank906/Leetcode_Tracker/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/rayank906/Leetcode_Tracker/tree/master/1046-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rayank906/Leetcode_Tracker/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rayank906/Leetcode_Tracker/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rayank906/Leetcode_Tracker/tree/master/0871-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
