@@ -8,34 +8,21 @@ class Node:
 
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        if not node:
-            return None
-    
-        oldtoNew = {}
-
+        nodeMap = {}
         def dfs(node):
-            if node in oldtoNew:
-                return oldtoNew[node]
-            
+            """
+                0. if in nodeMap, return nodeMap[node]
+                1. copy node, add to hashmap
+                2. assign neighbors copy to new node
+                3. return new node
+            """
+            if node in nodeMap:
+                return nodeMap[node]
             newNode = Node(node.val)
-            oldtoNew[node] = newNode
-            for n in node.neighbors:
-                newNode.neighbors.append(dfs(n))
+            nodeMap[node] = newNode
+            for neigh in node.neighbors:
+                newNode.neighbors.append(dfs(neigh))
             return newNode
-        
-        return dfs(node)
-
-"""
-    0. if not node, return None
-    1. init hashmap, make dfs helper
-    1b. if node in hashmap, return that node
-    2. make a copy of curr node and add to hashmap
-    3. loop through is neighbours to make copies of them by recursively
-    calling dfs
-    4. once we've finished recursing, we return back to the function
-    and we can return the new node
-
-    TimeC: O(n)
-    SpaceC: O(n)
-"""
+        return dfs(node) if node else None
+                
         
