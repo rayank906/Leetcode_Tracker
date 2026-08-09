@@ -7,17 +7,17 @@ class Solution:
             - return minutes if fresh set empty if not -1
         """
         q = deque()
-        fresh = set()
+        fresh = 0
 
         ROWS, COLS = len(grid), len(grid[0])
         for r in range(ROWS):
             for c in range(COLS):
                 if grid[r][c] == 1:
-                    fresh.add((r, c))
+                    fresh += 1
                 elif grid[r][c] == 2:
                     q.append((r, c))
         minute = 0
-        while fresh and q:
+        while fresh > 0 and q:
             for i in range(len(q)):
                 row, col = q.popleft()
                 neighbors = [[0, 1], [0, -1], [1, 0], [-1, 0]]
@@ -27,10 +27,10 @@ class Solution:
                     if r < 0 or r >= ROWS or c < 0 or c >= COLS or grid[r][c] == 2 or grid[r][c] == 0:
                         continue
                     grid[r][c] = 2
-                    fresh.remove((r, c))
+                    fresh -= 1
                     q.append((r, c))
             minute += 1
-        return minute if not fresh else -1
+        return minute if fresh == 0 else -1
                     
         
         
