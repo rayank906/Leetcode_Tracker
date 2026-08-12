@@ -4,6 +4,9 @@ class Solution:
             - build adj list of nodes
             - perform dfs using visit set. If a node was seen,
             cycle must exist so impossible return false
+
+            TC: O(V+E)
+            SC: O(V+E)
         """
         graph = {}
         for course, pre in prerequisites:
