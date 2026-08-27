@@ -1,14 +1,18 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
         """
-            1. if n < 1, return n
-            2. return climbStairs(n - 1) + climbStairs(n - 2)
+            - start at 0
+            - climb 1 step or 2 steps
+            - if reach n, return 1
+            - if above n, return 0
+            - cache ways by adding counts
         """
-        def memo(n, cache):
-            if n <= 1:
+        def ways(i, cache):
+            if i == n:
                 return 1
-            if n in cache:
-                return cache[n]
-            cache[n] = memo(n - 1, cache) + memo(n - 2, cache)
-            return cache[n]
-        return memo(n, {})
+            if i > n:
+                return 0
+            if i not in cache:
+                cache[i] = ways(i + 1, cache) + ways(i + 2, cache)
+            return cache[i]
+        return ways(0, {})
