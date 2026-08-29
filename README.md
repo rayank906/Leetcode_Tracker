@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rayank906/Leetcode_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rayank906/Leetcode_Tracker/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/rayank906/Leetcode_Tracker/tree/master/1023-time-based-key-value-store) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rayank906/Leetcode_Tracker/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/rayank906/Leetcode_Tracker/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rayank906/Leetcode_Tracker/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/rayank906/Leetcode_Tracker/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/rayank906/Leetcode_Tracker/tree/master/0917-boats-to-save-people) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/rayank906/Leetcode_Tracker/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/rayank906/Leetcode_Tracker/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rayank906/Leetcode_Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
