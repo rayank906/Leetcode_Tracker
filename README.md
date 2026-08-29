@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rayank906/Leetcode_Tracker/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rayank906/Leetcode_Tracker/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/rayank906/Leetcode_Tracker/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rayank906/Leetcode_Tracker/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/rayank906/Leetcode_Tracker/tree/master/0208-implement-trie-prefix-tree) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rayank906/Leetcode_Tracker/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/rayank906/Leetcode_Tracker/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rayank906/Leetcode_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rayank906/Leetcode_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/rayank906/Leetcode_Tracker/tree/master/0198-house-robber) |
