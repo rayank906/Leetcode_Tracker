@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/rayank906/Leetcode_Tracker/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rayank906/Leetcode_Tracker/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rayank906/Leetcode_Tracker/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rayank906/Leetcode_Tracker/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rayank906/Leetcode_Tracker/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/rayank906/Leetcode_Tracker/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rayank906/Leetcode_Tracker/tree/master/0746-min-cost-climbing-stairs) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rayank906/Leetcode_Tracker/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -639,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
