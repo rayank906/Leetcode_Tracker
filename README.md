@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rayank906/Leetcode_Tracker/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rayank906/Leetcode_Tracker/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rayank906/Leetcode_Tracker/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rayank906/Leetcode_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/rayank906/Leetcode_Tracker/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rayank906/Leetcode_Tracker/tree/master/0347-top-k-frequent-elements) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rayank906/Leetcode_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rayank906/Leetcode_Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rayank906/Leetcode_Tracker/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/rayank906/Leetcode_Tracker/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rayank906/Leetcode_Tracker/tree/master/0907-koko-eating-bananas) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rayank906/Leetcode_Tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rayank906/Leetcode_Tracker/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rayank906/Leetcode_Tracker/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
@@ -632,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rayank906/Leetcode_Tracker/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rayank906/Leetcode_Tracker/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
