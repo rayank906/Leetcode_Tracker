@@ -23,6 +23,7 @@ class Solution:
                 continue
             shortest[node] = weight
             for neighW, neigh in adj[node]:
-                heapq.heappush(minHeap, [neighW + weight, neigh])
+                if neigh not in shortest:
+                    heapq.heappush(minHeap, [neighW + weight, neigh])
         return max(shortest.values()) if len(shortest) == n else -1
         
