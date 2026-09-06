@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rayank906/Leetcode_Tracker/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rayank906/Leetcode_Tracker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rayank906/Leetcode_Tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rayank906/Leetcode_Tracker/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0074-search-a-2d-matrix) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/rayank906/Leetcode_Tracker/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/rayank906/Leetcode_Tracker/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/rayank906/Leetcode_Tracker/tree/master/0680-valid-palindrome-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rayank906/Leetcode_Tracker/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rayank906/Leetcode_Tracker/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rayank906/Leetcode_Tracker/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rayank906/Leetcode_Tracker/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rayank906/Leetcode_Tracker/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rayank906/Leetcode_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
