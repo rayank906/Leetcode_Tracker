@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rayank906/Leetcode_Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rayank906/Leetcode_Tracker/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/rayank906/Leetcode_Tracker/tree/master/0816-design-hashset) |
+| [0867-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0867-transpose-matrix) |
 | [0883-car-fleet](https://github.com/rayank906/Leetcode_Tracker/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/rayank906/Leetcode_Tracker/tree/master/0907-koko-eating-bananas) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/rayank906/Leetcode_Tracker/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rayank906/Leetcode_Tracker/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/rayank906/Leetcode_Tracker/tree/master/2058-concatenation-of-array) |
 ## Matrix
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rayank906/Leetcode_Tracker/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rayank906/Leetcode_Tracker/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/rayank906/Leetcode_Tracker/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rayank906/Leetcode_Tracker/tree/master/1036-rotting-oranges) |
